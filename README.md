@@ -7,7 +7,6 @@ Este repositório contém o código-fonte do site AluraPlay, uma plataforma de v
 # 🛠️ Tecnologias Utilizadas 
 - HTML5
 - CSS3
-- JavaScript (embora não esteja presente no código fornecido)
 
 # 🏗️ Estrutura do Projeto 
 - **index.html**: Página principal do site.
