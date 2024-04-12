@@ -1,15 +1,15 @@
 
 
-# AluraPlay 📺
+# 📺 AluraPlay 
 Este repositório contém o código-fonte do site AluraPlay, uma plataforma de vídeos educacionais. O site é uma simulação de uma plataforma de cursos online, com recursos de pesquisa, menu lateral, seções de vídeos e um rodapé informativo.
 ![image](https://github.com/pamyszz/alura_base/assets/153380356/ab33c0fa-912f-4499-8de3-2f0fd1fc57e2)
 
-# Tecnologias Utilizadas 🛠️
+# 🛠️ Tecnologias Utilizadas 
 - HTML5
 - CSS3
 - JavaScript (embora não esteja presente no código fornecido)
 
-# Estrutura do Projeto 🏗️
+# 🏗️ Estrutura do Projeto 
 - **index.html**: Página principal do site.
 - **css/**: Pasta contendo arquivos de estilo.
   - **reset.css**: Estilos de reset para garantir consistência entre os navegadores.
@@ -17,13 +17,13 @@ Este repositório contém o código-fonte do site AluraPlay, uma plataforma de v
   - **flexbox.css**: Estilos específicos para o layout flexbox.
 - **img/**: Pasta contendo imagens utilizadas no site.
 
-# Recursos Principais 🚀
+# 🚀 Recursos Principais 
 - **Menu Lateral**: Navegação intuitiva por meio de categorias.
 - **Seção Superior**: Links para diferentes tipos de vídeos disponíveis.
 - **Vídeos**: Visualização de vídeos com títulos, contagem de visualizações e data de publicação.
 - **Rodapé**: Informações sobre diferentes áreas de estudo.
 
-# Como Contribuir 🤝
+# 🤝 Como Contribuir 
 1. Faça um fork deste repositório.
 2. Crie uma branch para sua feature (`git checkout -b feature/SuaFeature`).
 3. Faça commit de suas alterações (`git commit -am 'Adicionando nova feature'`).
